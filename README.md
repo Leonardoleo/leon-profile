@@ -2,9 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-<img align="right" alt="Coding" width="400" src="add your link 
-here">
-
 ### <div align="center">I'm Leonard, a front end developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
